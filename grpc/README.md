@@ -1,24 +1,3 @@
-## Micronaut 3.0.0 Documentation
+# Por favor faça um Fork desse projeto!
 
-- [User Guide](https://docs.micronaut.io/3.0.0/guide/index.html)
-- [API Reference](https://docs.micronaut.io/3.0.0/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/3.0.0/guide/configurationreference.html)
-- [Micronaut Guides](https://guides.micronaut.io/index.html)
----
-
-## Feature spring documentation
-
-- [Micronaut Spring Framework Annotations documentation](https://micronaut-projects.github.io/micronaut-spring/latest/guide/index.html)
-
-## Feature testcontainers documentation
-
-- [https://www.testcontainers.org/](https://www.testcontainers.org/)
-
-## Feature hibernate-validator documentation
-
-- [Micronaut Hibernate Validator documentation](https://micronaut-projects.github.io/micronaut-hibernate-validator/latest/guide/index.html)
-
-## Feature jdbc-hikari documentation
-
-- [Micronaut Hikari JDBC Connection Pool documentation](https://micronaut-projects.github.io/micronaut-sql/latest/guide/index.html#jdbc)
-
+## Está em dúvida de como fazer um Fork? Não tem problema! [Aqui tem uma explicação do que entendemos que você deve considerar!](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
